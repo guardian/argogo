@@ -1,5 +1,5 @@
 #argogo
-Wrapper for making requests to [argo-rest APIs](https://github.com/argo-rest).
+Golang wrapper for making requests to [argo-rest APIs](https://github.com/argo-rest).
 
 ##Usage
 
